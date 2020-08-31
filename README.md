@@ -1,0 +1,9 @@
+# RACPop
+
+## Environment variables
+
+DB_USERNAME=
+DB_PASSWORD=
+DB_DATABASE=
+DB_HOST=
+BD_PORT=

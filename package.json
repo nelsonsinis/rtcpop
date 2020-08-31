@@ -5,9 +5,13 @@
   "author": "Nelson Sinis <nelsonsinis0@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "dotenv": "^8.2.0",
     "google-auth-library": "^6.0.6",
     "googleapis": "^59.0.0",
     "lowe": "^1.0.2",
+    "pg": "^8.3.3",
+    "pg-hstore": "^2.3.3",
+    "sequelize": "^6.3.4",
     "youtube-mp3-downloader": "^0.7.3"
   },
   "devDependencies": {
